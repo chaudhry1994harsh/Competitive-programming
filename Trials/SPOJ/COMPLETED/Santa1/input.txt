@@ -1,0 +1,28 @@
+18
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+R Prancer
+R Rudolph
+R Vixen
+A Rudolph 3 1
+A Vixen 10 9
+A Budolph 3 2
+A Dancer 5 2
+A Prancer 3 8
+R Vixen
+R Rudolph
+A Vixen 10 9
+A Rudolph 3 1
+A Rudolph 3 1
+
+
+
+4
+A Prancer 3 8
+A Rudolph 3 1
+A Vixen 10 9
+A Budolph 3 1
+A Dancer 5 2

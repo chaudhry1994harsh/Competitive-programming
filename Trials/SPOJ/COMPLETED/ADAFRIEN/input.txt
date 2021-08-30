@@ -1,0 +1,7 @@
+6 3
+dufresne 5
+gump 11
+dufresne 3
+mcmurphy 19
+leon 10
+dufresne 1
