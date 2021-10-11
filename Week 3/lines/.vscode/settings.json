@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "xhash": "cpp",
+        "xiosbase": "cpp",
+        "unordered_set": "cpp",
+        "utility": "cpp"
+    }
+}
